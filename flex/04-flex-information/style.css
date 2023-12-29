@@ -7,9 +7,26 @@ img {
   height: 100px;
 }
 
+.info{
+  width: 200px;
+  text-align: center;
+}
+
+img {
+  width: 100px;
+  height: 120px;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+}
+
+.information {
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
 }
 
 /* do not edit this footer */
